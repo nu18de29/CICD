@@ -1,5 +1,5 @@
 node {
-	//Define all variables
+	//Define all variables test local nu18de29
 	def app1_name = 'todobackend'
 	def app2_name = 'todoui'
 	def app1_image_tag = "${env.REPOSITORY}/${app1_name}:v${env.BUILD_NUMBER}"
